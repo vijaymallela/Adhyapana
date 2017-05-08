@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'puts/new'
+
+  get 'puts/index'
+
+  get 'puts/show'
+
+  get 'puts/edit'
+
   get 'rats/new'
 
   get 'rats/index'
