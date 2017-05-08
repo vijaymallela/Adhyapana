@@ -1,0 +1,2 @@
+class Giri < ApplicationRecord
+end
